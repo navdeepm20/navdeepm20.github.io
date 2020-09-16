@@ -36,19 +36,16 @@
         letter-spacing: 10px;
     }
 
-    .site-main .brand-area .experience-area .years-area{
-        padding-left: 1%;
-        width: 49%;
-    }
+    
 
-    .site-main .brand-area .experience-area .bg-panel{
-        margin-left: 30%;
-        width: 80%;   
-    }
+  
+   .site-main .services-area .services-list .srow
+   {
+       flex-direction: column;
+       padding: 0;
+       margin: -15px;
 
-    .site-main .brand-area .experience-area .call-area{
-        padding-left: 3%;
-    }
+   }
 
     .site-main .project-area .button-group button{
         font: normal 500 18px/40px var(--roboto);
